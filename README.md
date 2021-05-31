@@ -1,5 +1,3 @@
 # job-hackathon-2
 
-# file Mysubmission : consists of python code of model 
-
-# 
+### my python code with my approach. 
